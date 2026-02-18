@@ -89,4 +89,4 @@ Compared to the original TypeScript implementation:
 
 ## License
 
-Private.
+MIT
